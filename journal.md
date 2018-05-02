@@ -1,5 +1,5 @@
 # Title
-Measurements of secondary organic aerosol over West Africa 
+revised 2 
 
 # Authors 
 Teng-Chou Chen
