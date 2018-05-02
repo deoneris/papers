@@ -10,8 +10,10 @@ revised 3
 
 
 # Authors 
-aaaa
-Teng-Chou Chen
+22222, mmmmm
+Teng-Chou Chen, mmmmm
+
+
 
 #Introduction
 We present here aircraft measurement of SOA over Niger. using an aerodyne aerosol mass spec (Allan, 2004).
