@@ -1,5 +1,9 @@
+
 # Title
-revised 2 
+<<<<<<< HEAD
+revised 3 
+=======
+
 
 # Authors 
 Teng-Chou Chen
