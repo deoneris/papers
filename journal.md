@@ -4,3 +4,6 @@ Measurements of secondary organic aerosol over West Africa
 # Authors 
 Teng-Chou Chen
 
+#Introduction
+We present here aircraft measurement of SOA over Niger.
+Joe Bloggs has already made some awesome measurements, but hasn't anaswered all yet.  
